@@ -60,10 +60,10 @@
     <div style="flex:1;">
       
   ### Fun Facts
-   ⚡ Enthusiastic White Monster Energy & Coffee Enjoyer
-   ✈️ Avid Travel Explorer
-   🐱 Full-time Cat Admirer
-   ✝️ Jesus Is Lord
+   - ⚡ Enthusiastic White Monster Energy & Coffee Enjoyer
+   - ✈️ Avid Travel Explorer
+   - 🐱 Full-time Cat Person
+   - ✝️ Jesus Is Lord
     </div>
     
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FydjZzYjY5OXRoODV2MW81YTE1ZnBpbWlqZDltNnI3bnZ4dmIybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
