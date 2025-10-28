@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./github-header-banner.png" alt="Header" width="900"/>
+
   ## 🖥️ Software Developer
   Once upon a time, I was a globetrotting freelancer, hopping from city to city, living out of a suitcase and collecting experiences along the way. Somewhere between flights, van-driving gigs, setting up events, and crazy Eastern European techno parties, I stumbled upon the magical world of code. Now, fueled solely by caffeine, as sleep ain't an option anymore, I'm building apps while plotting my next digital adventure.
   
