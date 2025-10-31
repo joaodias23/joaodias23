@@ -61,9 +61,9 @@
       
   ### Fun Facts
    - ⚡ Enthusiastic White Monster Energy & Coffee Enjoyer
-   - ✈️ Avid Travel Explorer
-   - 🐱 Full-time Cat Person
-   - ✝️ Jesus Is Lord
+   - ✈️ Avid Travel Adventurer
+   - 🐱 Full-time Cat Person (dogs too but I have a cat so I'm biased)
+   - ✝️ Jesus Is King
     </div>
     
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FydjZzYjY5OXRoODV2MW81YTE1ZnBpbWlqZDltNnI3bnZ4dmIybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
