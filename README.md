@@ -34,7 +34,8 @@ Once upon a time, I was a globetrotting freelancer, hopping from city to city, l
   ![CS50 Certificate](https://img.shields.io/badge/CS50-Certificate-blue)
   
   ---
-⚡ Enthusiastic White Monster Energy & Coffee Enjoyer <br>
-✈️ Avid Travel Adventurer <br>
-🐱 Full-time Cat Person (dogs too but I have a cat so I'm biased) <br>
-✝️ Jesus Is King <br>
+  Powered by:
+
+  <img src="./ie_logo.gif" alt="Internet Explorer">
+
+</div>
