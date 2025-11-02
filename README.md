@@ -30,6 +30,7 @@ Once upon a time, I was a globetrotting freelancer, hopping from city to city, l
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodias23&layout=compact&theme=radical)
 
   ## 🔗 𝕋𝕠𝕡 𝕃𝕚𝕟𝕜𝕤 🔗
+  <br>
   
   [![CS50 Certificate](https://img.shields.io/badge/CS50-Certificate-blue)](https://certificates.cs50.io/460153ef-19ea-4193-8d0c-acaaf44c56db.pdf?size=letter)
   <br>
