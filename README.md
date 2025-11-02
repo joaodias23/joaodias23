@@ -31,9 +31,13 @@ Once upon a time, I was a globetrotting freelancer, hopping from city to city, l
 
   ---
   
-  ![CS50 Certificate](https://img.shields.io/badge/CS50-Certificate-blue)
+  [![CS50 Certificate](https://img.shields.io/badge/CS50-Certificate-blue)](https://certificates.cs50.io/460153ef-19ea-4193-8d0c-acaaf44c56db.pdf?size=letter)
+  <br>
+  <br>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
   ---
+  
   Powered by:
 
   <img src="./ie_logo.gif" alt="Internet Explorer">
