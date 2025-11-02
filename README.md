@@ -59,8 +59,8 @@ Once upon a time, I was a globetrotting freelancer, hopping from city to city, l
 
   ---
   
-  Powered by:
+  ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪:
 
-  <img src="./ie_logo.gif" alt="Internet Explorer">
+  <img src="./ie_logo.gif" alt="Internet Explorer" style="height: 40px; width 40px;">
 
 </div>
