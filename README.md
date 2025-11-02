@@ -40,8 +40,8 @@ Once upon a time, I was a globetrotting freelancer, hopping from city to city, l
 
   <table>
     <tr>
-    <th>Click me!</th>
-    <th>Click me!</th>
+    <th>CTRL + Click me!</th>
+    <th>CTRL + Click me!</th>
     </tr>
     <tr>
     <td>
