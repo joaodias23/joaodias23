@@ -5,7 +5,7 @@
   ## 🖥️ 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🖥️
 Once upon a time, I was a globetrotting freelancer, hopping from city to city, living out of a suitcase and collecting experiences along the way. Somewhere between flights, van-driving gigs, setting up events, and crazy Eastern European techno parties, I stumbled upon the magical world of code. Now, fueled solely by caffeine, as sleep ain't an option anymore, I'm building apps while plotting my next digital adventure.
   
-  ## 🛠️ 𝕄𝕪 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜 🛠️
+  ## 🛠️ My Tech Stack 🛠️
   
 <div style="display:flex; flex-direction: row; gap:15px;">   
   
@@ -26,10 +26,10 @@ Once upon a time, I was a globetrotting freelancer, hopping from city to city, l
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" title="Linux"/>
   </p>
 
-   ## ☕ 𝕋𝕠𝕡 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 ☕
+   ## ☕ Top Languages ☕
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodias23&layout=compact&theme=radical)
 
-  ## 🔗 𝕋𝕠𝕡 𝕃𝕚𝕟𝕜𝕤 🔗
+  ## 🔗 Top Links 🔗
   <br>
   
   [![CS50 Certificate](https://img.shields.io/badge/CS50-Certificate-blue)](https://certificates.cs50.io/460153ef-19ea-4193-8d0c-acaaf44c56db.pdf?size=letter)
