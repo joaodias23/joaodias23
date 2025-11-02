@@ -42,7 +42,7 @@
   [![CS50 Certificate](https://img.shields.io/badge/CS50-Certificate-blue)](https://certificates.cs50.io/460153ef-19ea-4193-8d0c-acaaf44c56db.pdf?size=letter)
   <br>
   <br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com](https://www.linkedin.com/in/jo%C3%A3o-dias23/))
   
   ---
 
