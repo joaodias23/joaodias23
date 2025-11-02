@@ -7,7 +7,7 @@
 👋 Started my career as an **SEO copywriter** at an Australian company before transitioning into professional **Video Editing**. I had the opportunity to edit a full documentary featuring **Mark Cuban** and **Deep Ellum**, as well as a **VSL** that generated over **$100k** in revenue for the client. I have over 536k views on YouTube, and I was a business partner in a quick venture with a famous American film producer who has collaborated with names like Matthew McConaughey, Zac Efron, Jack Black, Keanu Reeves, and many others. That was my backstory.
 <br>
 <br>
-💻 Now I'm pursuing a career in coding, starting from scratch, where I can leverage my skills all in one place to build solutions where design, narrative, and technology meet seamlessly.
+💻 Now, I'm pursuing a career in coding, starting from scratch, where I can leverage my skills all in one place to build solutions where design, narrative, and technology meet seamlessly.
 <br>
 <br>
 🌍 Beyond my professional life, I travelled across Europe on my own, attended exclusive events with high-profile guests in the UK at just 20 years old, and continuously seek adventures that challenge my creativity, storytelling, and production skills.
