@@ -44,18 +44,18 @@ Once upon a time, I was a globetrotting freelancer, hopping from city to city, l
 
   <table>
     <tr>
-    <th>Click me</th>
-    <th>Click me</th>
+    <th>Click me!</th>
+    <th>Click me!</th>
     </tr>
     <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=K0HSD_i2DvA&t=57s">
-        <img src="./globe.gif" width="400">
+        <img src="./globe.gif" width="300">
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=W8r-tXRLazs&t=18s">
-        <img src="./music.gif" width="400">
+        <img src="./music.gif" width="300">
       </a>
     </td>
     </tr>
