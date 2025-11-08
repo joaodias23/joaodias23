@@ -34,7 +34,7 @@
   </p>
 
    ## ☕ Top Languages ☕
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodias23&layout=donut&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodias23&layout=compact&theme=dark)
 
   ## 🔗 Top Links 🔗
   <br>
