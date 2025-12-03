@@ -13,7 +13,7 @@
 🌍 Beyond my professional life, I began traveling solo across Europe at 18, attended exclusive events with high-profile guests in the UK at just 20 years old, and continuously seek adventures that push my creativity, storytelling, and production skills to the limit!
 
    ## ☕ Top Languages ☕
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodias23&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodias23&layout=donut&theme=dark)
 
   ## 🔗 Top Links 🔗
   <br>
