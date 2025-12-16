@@ -4,10 +4,10 @@
 
   ## 🖥️ SOFTWARE DEVELOPER 🖥️
   
-👋 Started my career as an **SEO copywriter** at an Australian e-commerce business before transitioning into professional **Video Editing**. I had the opportunity to edit a full documentary featuring **Mark Cuban** and **Deep Ellum**, as well as a **VSL** that generated over **$100k** in revenue for the client. And I have over **536k** views on YouTube. That’s my backstory.
+👋 Started my career as an **SEO copywriter** at an Australian e-commerce business before transitioning into professional **Video Editing**. I had the opportunity to work on a full-length documentary featuring **Mark Cuban** and **Deep Ellum**, as well as a **high-converting VSL that generated well over half a million dollars in revenue** for the client. That’s my backstory.
 <br>
 <br>
-💻 Now, I'm pursuing a career in coding, starting from scratch, where I can leverage my skills all in one place to build solutions where design, narrative, and technology meet seamlessly.
+💻 Now, I'm building a career in coding from the ground up, where I can leverage my skills all in one place to build solutions where design, narrative, and technology meet seamlessly.
 <br>
 <br>
 🌍 Beyond my professional life, I began traveling solo across Europe at 18, attended exclusive events with high-profile guests in the UK at just 20 years old, and continuously seek adventures that push my creativity, storytelling, and production skills to the limit!
