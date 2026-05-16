@@ -7,13 +7,10 @@
 👋 Started my career as an **SEO copywriter** at an Australian e-commerce business before transitioning into professional **Video Editing**. I had the opportunity to work on a full-length documentary featuring **Mark Cuban** and **Deep Ellum**, as well as a **high-converting VSL that generated well over a million dollars in revenue** for the client. That’s my backstory.
 <br>
 <br>
-💻 Now, I'm building a career in coding from the ground up, where I can leverage my skills all in one place to build solutions where design, narrative, and technology meet seamlessly.
+  💻 Today, I engineer **secure, scalable AI-integrated applications** and **complex data pipelines**. I specialize in building robust, high-throughput architectures using modern frameworks (Laravel, Vue, PostgreSQL, Redis, Weaviate), with a heavy focus on multi-stage reasoning workflows, the Model Context Protocol (MCP), and enterprise-grade software that delivers clear, verifiable outcomes. 
 <br>
 <br>
 🌍 Beyond my professional life, I began traveling solo across Europe at 18, attended exclusive events with high-profile guests in the UK at just 20 years old, and continuously seek adventures that push my creativity, storytelling, and production skills to the limit!
-
-   ## ☕ Top Languages ☕
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodias23&layout=donut&theme=dark)
 
   ## 🔗 Top Links 🔗
   <br>
